@@ -44,7 +44,6 @@
 
         While numero <> 0
 
-
             Console.WriteLine("Ingrese un numero: ")
             numero = Console.ReadLine()
 
