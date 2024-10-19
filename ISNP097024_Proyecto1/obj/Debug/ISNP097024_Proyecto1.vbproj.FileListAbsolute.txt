@@ -1,0 +1,11 @@
+C:\Users\Marco Méndez\Desktop\ISNP Tal\ISNP097024_Proyecto1\bin\Debug\ISNP097024_Proyecto1.exe.config
+C:\Users\Marco Méndez\Desktop\ISNP Tal\ISNP097024_Proyecto1\bin\Debug\ISNP097024_Proyecto1.exe
+C:\Users\Marco Méndez\Desktop\ISNP Tal\ISNP097024_Proyecto1\bin\Debug\ISNP097024_Proyecto1.pdb
+C:\Users\Marco Méndez\Desktop\ISNP Tal\ISNP097024_Proyecto1\bin\Debug\ISNP097024_Proyecto1.xml
+C:\Users\Marco Méndez\Desktop\ISNP Tal\ISNP097024_Proyecto1\obj\Debug\ISNP097024_Proyecto1.vbproj.AssemblyReference.cache
+C:\Users\Marco Méndez\Desktop\ISNP Tal\ISNP097024_Proyecto1\obj\Debug\ISNP097024_Proyecto1.Resources.resources
+C:\Users\Marco Méndez\Desktop\ISNP Tal\ISNP097024_Proyecto1\obj\Debug\ISNP097024_Proyecto1.vbproj.GenerateResource.cache
+C:\Users\Marco Méndez\Desktop\ISNP Tal\ISNP097024_Proyecto1\obj\Debug\ISNP097024_Proyecto1.vbproj.CoreCompileInputs.cache
+C:\Users\Marco Méndez\Desktop\ISNP Tal\ISNP097024_Proyecto1\obj\Debug\ISNP097024_Proyecto1.exe
+C:\Users\Marco Méndez\Desktop\ISNP Tal\ISNP097024_Proyecto1\obj\Debug\ISNP097024_Proyecto1.xml
+C:\Users\Marco Méndez\Desktop\ISNP Tal\ISNP097024_Proyecto1\obj\Debug\ISNP097024_Proyecto1.pdb
